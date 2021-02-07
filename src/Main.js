@@ -8,7 +8,6 @@ export default class Home extends React.Component {
          <div className="container">
             <h1 style={{ textAlign: "center" }}>Контакты</h1>
             <div class="col s12 m7">
-               {/* <h3 class="header">Наш </h3> */}
                <div class="card horizontal">
                   <div class="card-image">
                      <img src="https://metrorus.ru/metromaps/spb/css/img/spbmap.jpg" />
